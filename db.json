@@ -1,0 +1,189 @@
+{
+    "Categories": [
+        {
+            "id": 1,
+            "name": "Diseño Gráfico",
+            "subtitle": "15 cursos",
+            "img": "https://img.freepik.com/vector-gratis/pequeno-disenador-grafico-dibujando-boligrafo-grande-pantalla-computadora-creadores-trabajo-mujer-creativa-que-trabaja-ilustracion-vector-plano-portatil-concepto-diseno-digital-banner-o-pagina-web-destino_74855-25342.jpg?w=1480&t=st=1680187481~exp=1680188081~hmac=7b6e9200e049935b25812eb1c21137da3868420d668f9dca000d5b4d701d4946",
+            "route": "GraphicDesign",
+            "backgroundColor": "#71B8FF",
+            "borderColor": "#62ACF5",
+            "shadowColor": "#91C1F0"
+        },
+        {
+            "id": 2,
+            "name": "Programación",
+            "subtitle": "16 cursos",
+            "img": "https://img.freepik.com/vector-gratis/programadores-que-utilizan-lenguaje-programacion-javascript-computadora-gente-pequena-lenguaje-javascript-motor-javascript-concepto-desarrollo-web-js-ilustracion-aislada-violeta-vibrante-brillante_335657-986.jpg?w=1800&t=st=1680187371~exp=1680187971~hmac=965ae05e8a1ae6e35b7035851d053e03ddba318c9dee042b642e710b116e022c",
+            "route": "Programming",
+            "backgroundColor": "#FF6271",
+            "borderColor": "#FD6B7A",
+            "shadowColor": "#F99AA6"
+        },
+        {
+            "id": 3,
+            "name": "Finanzas",
+            "subtitle": "9 cursos",
+            "img": "https://img.freepik.com/vector-gratis/empresaria-alegre-junto-al-grafico-flecha-arriba-pila-enormes-monedas-oro-billetes-ilustracion-vectorial-plana-progreso-crecimiento-empresarial-concepto-desarrollo-banner-o-pagina-web-inicio_74855-24031.jpg?w=1800&t=st=1680188502~exp=1680189102~hmac=d35c2822a3f622743e1a473318bd4483c7d3df502c8874c0b19b5fbf9629c9c4",
+            "route": "Finance",
+            "backgroundColor": "#E3A163",
+            "borderColor": "#E19F61",
+            "shadowColor": "#E0B995"
+        },
+         {
+            "id": 4,
+            "name": "Diseño UI/UX",
+            "subtitle": "22 cursos",
+            "img": "https://img.freepik.com/vector-premium/ui-ux-programmer-flat-design-vector-illustration-informacion-empresarial-e-ideas-compartir-equipo-disenador-codificacion-interfaz-o-desarrollo-aplicaciones-software_2175-1852.jpg?w=1800",
+            "route": "UIUXDesign",
+            "backgroundColor": "#7C83FF",
+            "borderColor": "#787DF9",
+            "shadowColor": "#9BA1FD"
+        }
+    ],
+    "Courses": [
+        {
+            "id": 1,
+            "name": "Contabilidad",
+            "subtitle": "Duracion: 72h",
+            "img": "https://img.freepik.com/vector-gratis/icono-web-dibujos-animados-balance-proceso-contable-analista-financiero-herramientas-calculo-idea-consultoria-financiera-servicio-contabilidad-ilustracion-metafora-concepto-aislado-vector_335657-2735.jpg?w=1380&t=st=1680290641~exp=1680291241~hmac=52b70cf49f5bff7069ebbd31a1eaa80ee6009edb95887e124a8ba95a01acc6f1",
+            "route": "Accounting",
+            "backgroundColor": "#E3A163",
+            "borderColor": "#E19F61",
+            "shadowColor": "#E0B995",
+            "Modules": [
+                {
+                    "id": 1,
+                    "name_module": "¿Que es la contabilidad?",
+                    "img": "https://img.freepik.com/vector-gratis/oficina-gestion-multitarea-planificacion-organizacion-empresarial-calculadora-dinero_1284-41579.jpg?w=1380&t=st=1680619967~exp=1680620567~hmac=821cca771258b442157400d9002051f771bf1076ff6cd0249fd3ec23fb5dc446",
+                    "route": "ModuleAccounting"
+                },
+                {
+                    "id": 2,
+                    "name_module": "Conceptos basicos de la contabilidad",
+                    "img": "https://img.freepik.com/vector-gratis/maletin-calculadora-contadores-que-trabajan-graficos-e-ilustracion-computadora-portatil_335657-251.jpg?w=1800&t=st=1680620191~exp=1680620791~hmac=1b50b5f97d616a6478608feddaeba69977140cecaa77d07eb9416ef9ba442649",
+                    "route": "ModuleAccounting"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Desarrollo de sistemas",
+            "subtitle": "Duracion: 120h",
+            "img": "https://img.freepik.com/vector-gratis/concepto-desarrollo-web-programador-ar_107791-17049.jpg?w=1800&t=st=1680290683~exp=1680291283~hmac=fdfd84b0309226d4b8599d247da9d651741ccdf12fff4fbc948645576108f56e",
+            "route": "Development",
+            "backgroundColor": "#FF6374",
+            "borderColor": "#FD6B7A",
+            "shadowColor": "#F99AA6",
+            "Modules": [
+                {
+                    "id": 1,
+                    "name_module": "¿Que es el desarrollo de sistemas?",
+                    "img": "https://img.freepik.com/vector-premium/desarrollo-programas-ingenieria-software-concepto-diseno-juegos-programadores-javascript-escritores-scripts-vector-ilustracion-plana-equipo-proyecto-desarrollo-software-escritorio-aplicacion-sistema_229548-2291.jpg?w=2000",
+                    "route": "ModuleDevelopment"
+                },
+                {
+                    "id": 2,
+                    "name_module": "Conceptos basicos del desarrollo de sistemas",
+                    "img": "https://img.freepik.com/vector-gratis/ilustracion-concepto-abstracto-equipo-desarrollo-software-trabajo-equipo-remoto-equipo-digital-demanda-profesional-desarrollador-software-certificado-contratar-empresa-subcontratada_335657-932.jpg?t=st=1680620609~exp=1680621209~hmac=6005b4ab58a8a9a968b482e59bc9280ecd8cabaa59e1e5844f6aa27ec026598e",
+                    "route": "ModuleDevelopment"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Diseño UI",
+            "subtitle": "Duracion: 96h",
+            "img": "https://img.freepik.com/vector-gratis/fondo-plano-ui-ux-ilustrado_23-2149048690.jpg?w=1800&t=st=1680291050~exp=1680291650~hmac=dc2cac71537021f7893bcc89422fc52c35bca08d426cd841cf6e0c7c82780ef8",
+            "route": "UIDesign",
+            "backgroundColor": "#7C83FF",
+            "borderColor": "#787DF9",
+            "shadowColor": "#9BA1FD",
+            "Modules":[
+                {
+                    "id": 1,
+                    "name_module": "¿Que es el Diseño UI?",
+                    "img": "https://img.freepik.com/vector-gratis/ilustracion-concepto-movil-ui-ux_114360-11697.jpg?w=1800&t=st=1680627262~exp=1680627862~hmac=6cd23641c1a62b3512dad31da0889fae6169e6f0be5d15a0e0cb2932a8229898",
+                    "route": "ModuleUIDesign"
+                },
+                {
+                    "id": 2,
+                    "name_module": "Conceptos basicos del Diseño UI",
+                    "img": "https://img.freepik.com/vector-gratis/ilustracion-concepto-movil-ui-ux_114360-11217.jpg?t=st=1680627254~exp=1680627854~hmac=0a4fba210d356561d7c96cc8435ca14bd3af078e744b09b1796a819ad1256b30",
+                    "route": "ModuleUIDesign"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Marketing Digital",
+            "subtitle": "Duracion: 48h",
+            "img": "https://img.freepik.com/vector-gratis/gerentes-publicidad-ppc-trabajan-sitios-web-campana-ppc-modelo-pago-clic-herramientas-marketing-internet-concepto-publicidad-buscadores-ilustracion-aislada-bluevector-coral-rosado_335657-2279.jpg?w=1800&t=st=1680290825~exp=1680291425~hmac=0adfbdccf3c1901cd14f494c0e5d1d379c7c27aca74cb0150ebdbfb611879a4f",
+            "route": "DigitalMarketing",
+            "backgroundColor": "#E3A163",
+            "borderColor": "#E19F61",
+            "shadowColor": "#E0B995",
+            "Modules": [
+                {
+                    "id": 1,
+                    "name_module": "¿Que es el Marketing digital?",
+                    "img": "https://img.freepik.com/vector-gratis/concepto-redes-sociales-influyentes_23-2148642672.jpg?w=1800&t=st=1680626843~exp=1680627443~hmac=af0d76e9d814d88b5b165fb8f535015d1888966bb5ba3fee69eb499c5ab2796d",
+                    "route": "ModuleDigitalMarketing"
+                },
+                {
+                    "id": 2,
+                    "name_module": "Conceptos basicos Marketing digital",
+                    "img": "https://img.freepik.com/vector-gratis/ilustracion-concepto-marketing-movil_114360-1497.jpg?w=1380&t=st=1680634699~exp=1680635299~hmac=756bc4cbd7c93337c6e84236a9f8725170b14877ac3574ec384e741b611d7837",
+                    "route": "ModuleDigitalMarketing"
+                }
+            ]
+        }
+    ],
+    "Favorites": [
+        {
+            "id": 1,
+            "name": "Diseño UX",
+            "subtitle": "Duracion: 72h",
+            "img": "https://img.freepik.com/vector-premium/ui-ux-programmer-flat-design-vector-illustration-informacion-empresarial-e-ideas-compartir-equipo-disenador-codificacion-interfaz-o-desarrollo-aplicaciones-software_2175-1852.jpg?w=1800",
+            "backgroundColor": "#7C83FF",
+            "borderColor": "#787DF9",
+            "shadowColor": "#9BA1FD"
+        },
+        {
+            "id": 2,
+            "name": "Finanzas",
+            "subtitle": "Duracion: 120h",
+            "img": "https://img.freepik.com/vector-gratis/empresaria-alegre-junto-al-grafico-flecha-arriba-pila-enormes-monedas-oro-billetes-ilustracion-vectorial-plana-progreso-crecimiento-empresarial-concepto-desarrollo-banner-o-pagina-web-inicio_74855-24031.jpg?w=1800&t=st=1680188502~exp=1680189102~hmac=d35c2822a3f622743e1a473318bd4483c7d3df502c8874c0b19b5fbf9629c9c4",
+            "backgroundColor": "#E3A163",
+            "borderColor": "#E19F61",
+            "shadowColor": "#E0B995"
+        },
+        {
+            "id": 3,
+            "name": "Programación en java",
+            "subtitle": "Duracion: 120h",
+            "img": "https://img.freepik.com/vector-gratis/concepto-desarrollo-aplicaciones-lenguajes-programacion_23-2148688949.jpg?w=1380&t=st=1681765355~exp=1681765955~hmac=ffd901f44cf59c0992f32d9f789ab3c818130bebd1c613824cbd6dde211a4f07",
+            "backgroundColor": "#FF6374",
+            "borderColor": "#FD6B7A",
+            "shadowColor": "#F99AA6"
+        },
+        {
+            "id": 4,
+            "name": "Backend",
+            "subtitle": "Duracion: 72h",
+            "img": "https://img.freepik.com/vector-gratis/ilustracion-concepto-actividad-desarrollador_114360-2801.jpg?w=1380&t=st=1681765592~exp=1681766192~hmac=62ea88e0f075c94fef82210ec05a6369549073f3559571aeaef2111fa2419ad1",
+            "backgroundColor": "#FF6374",
+            "borderColor": "#FD6B7A",
+            "shadowColor": "#F99AA6"
+        },
+        {
+            "id": 5,
+            "name": "Diseño Gráfico",
+            "subtitle": "Duracion: 72h",
+            "img": "https://img.freepik.com/vector-gratis/pequeno-disenador-grafico-dibujando-boligrafo-grande-pantalla-computadora-creadores-trabajo-mujer-creativa-que-trabaja-ilustracion-vector-plano-portatil-concepto-diseno-digital-banner-o-pagina-web-destino_74855-25342.jpg?w=1480&t=st=1680187481~exp=1680188081~hmac=7b6e9200e049935b25812eb1c21137da3868420d668f9dca000d5b4d701d4946",
+            "backgroundColor": "#71B8FF",
+            "borderColor": "#62ACF5",
+            "shadowColor": "#91C1F0"
+        }
+    ]
+}
